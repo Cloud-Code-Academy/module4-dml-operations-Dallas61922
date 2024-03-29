@@ -126,7 +126,7 @@ public with sharing class DMLOperations {
         }
     }
 
-    /**NEED TO FINISH
+    /**
      * Question 8
      * Insert or updates opportunities from list of names.
      * Associate the Opportunities with account that has the name accountName.
